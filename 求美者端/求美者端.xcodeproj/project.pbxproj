@@ -142,10 +142,15 @@
 		DF35FF721DE683E60013E46D /* BecomeBeautifulSubViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF35FF711DE683E60013E46D /* BecomeBeautifulSubViewController.m */; };
 		DF35FF771DE694EC0013E46D /* HospitalTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DF35FF751DE694EC0013E46D /* HospitalTableViewCell.m */; };
 		DF35FF781DE694EC0013E46D /* HospitalTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF35FF761DE694EC0013E46D /* HospitalTableViewCell.xib */; };
+		DF3D231D1DF57948000DC9D6 /* DoctorDetailsHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = DF3D231C1DF57948000DC9D6 /* DoctorDetailsHeaderView.m */; };
+		DF3D231F1DF57969000DC9D6 /* DoctorDetailsHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF3D231E1DF57969000DC9D6 /* DoctorDetailsHeaderView.xib */; };
 		DF4077631DD2B5D000436FDF /* FunctionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DF4077611DD2B5D000436FDF /* FunctionTableViewCell.m */; };
 		DF4077641DD2B5D000436FDF /* FunctionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF4077621DD2B5D000436FDF /* FunctionTableViewCell.xib */; };
 		DF5C36FA1DE5703D00082629 /* VideoInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5C36F91DE5703D00082629 /* VideoInfo.m */; };
 		DF5C37021DE5777800082629 /* PlayVideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5C37011DE5777800082629 /* PlayVideoViewController.m */; };
+		DF5EF89A1DF5922800203F5D /* CWStarRateView.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5EF8991DF5922800203F5D /* CWStarRateView.m */; };
+		DF872C8F1DF0106000CBDB23 /* WSMovieController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF872C8E1DF0106000CBDB23 /* WSMovieController.m */; };
+		DF872C931DF0108300CBDB23 /* media.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DF872C921DF0108300CBDB23 /* media.mp4 */; };
 		DF8F84F01D794F8B006D7EB5 /* CommonServerInteraction.m in Sources */ = {isa = PBXBuildFile; fileRef = DF8F84EF1D794F8B006D7EB5 /* CommonServerInteraction.m */; };
 		DF8F84F41D79527B006D7EB5 /* CommonInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = DF8F84F31D79527B006D7EB5 /* CommonInfo.m */; };
 		DF8F84FC1D795CD9006D7EB5 /* SecondLevelListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF8F84FB1D795CD9006D7EB5 /* SecondLevelListViewController.m */; };
@@ -162,6 +167,8 @@
 		DF96C81E1D7569F8001E5C12 /* GarageAbilityCollectionSectionHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF96C8171D7569F8001E5C12 /* GarageAbilityCollectionSectionHeader.xib */; };
 		DF96C81F1D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DF96C8191D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.m */; };
 		DF96C8201D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF96C81A1D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.xib */; };
+		DFBD197D1DEEAD0500A94988 /* AuctionProjectTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DFBD197B1DEEAD0500A94988 /* AuctionProjectTableViewCell.m */; };
+		DFBD197E1DEEAD0500A94988 /* AuctionProjectTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFBD197C1DEEAD0500A94988 /* AuctionProjectTableViewCell.xib */; };
 		DFE194581D7D551E00791F8D /* VerDoctorWebTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFE194571D7D551E00791F8D /* VerDoctorWebTableViewController.m */; };
 		DFE1945D1D7D56D300791F8D /* VerDoctorWebTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DFE1945B1D7D56D300791F8D /* VerDoctorWebTableViewCell.m */; };
 		DFE1945E1D7D56D300791F8D /* VerDoctorWebTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFE1945C1D7D56D300791F8D /* VerDoctorWebTableViewCell.xib */; };
@@ -174,6 +181,7 @@
 		DFF068301DE562C000E1C244 /* BelieveTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFF0682F1DE562C000E1C244 /* BelieveTableViewController.m */; };
 		DFF068341DE563F800E1C244 /* VideoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DFF068321DE563F800E1C244 /* VideoTableViewCell.m */; };
 		DFF068351DE563F800E1C244 /* VideoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFF068331DE563F800E1C244 /* VideoTableViewCell.xib */; };
+		DFF3962F1DF1190B00D38BFF /* AucionProjectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFF3962E1DF1190B00D38BFF /* AucionProjectViewController.m */; };
 		DFFAC6B21DE7D9DF00A0F4A3 /* BeautyServerInteraction.m in Sources */ = {isa = PBXBuildFile; fileRef = DFFAC6B11DE7D9DF00A0F4A3 /* BeautyServerInteraction.m */; };
 		DFFAC6B61DE7DD0600A0F4A3 /* AuctionProjectInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = DFFAC6B51DE7DD0600A0F4A3 /* AuctionProjectInfo.m */; };
 		DFFAC6B91DE7EEE000A0F4A3 /* ExpertInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = DFFAC6B81DE7EEE000A0F4A3 /* ExpertInfo.m */; };
@@ -394,6 +402,9 @@
 		DF35FF741DE694EC0013E46D /* HospitalTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HospitalTableViewCell.h; sourceTree = "<group>"; };
 		DF35FF751DE694EC0013E46D /* HospitalTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HospitalTableViewCell.m; sourceTree = "<group>"; };
 		DF35FF761DE694EC0013E46D /* HospitalTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HospitalTableViewCell.xib; sourceTree = "<group>"; };
+		DF3D231B1DF57948000DC9D6 /* DoctorDetailsHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoctorDetailsHeaderView.h; sourceTree = "<group>"; };
+		DF3D231C1DF57948000DC9D6 /* DoctorDetailsHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DoctorDetailsHeaderView.m; sourceTree = "<group>"; };
+		DF3D231E1DF57969000DC9D6 /* DoctorDetailsHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DoctorDetailsHeaderView.xib; sourceTree = "<group>"; };
 		DF4077601DD2B5D000436FDF /* FunctionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FunctionTableViewCell.h; sourceTree = "<group>"; };
 		DF4077611DD2B5D000436FDF /* FunctionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FunctionTableViewCell.m; sourceTree = "<group>"; };
 		DF4077621DD2B5D000436FDF /* FunctionTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FunctionTableViewCell.xib; sourceTree = "<group>"; };
@@ -401,6 +412,11 @@
 		DF5C36F91DE5703D00082629 /* VideoInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoInfo.m; sourceTree = "<group>"; };
 		DF5C37001DE5777800082629 /* PlayVideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayVideoViewController.h; sourceTree = "<group>"; };
 		DF5C37011DE5777800082629 /* PlayVideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayVideoViewController.m; sourceTree = "<group>"; };
+		DF5EF8981DF5922800203F5D /* CWStarRateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWStarRateView.h; sourceTree = "<group>"; };
+		DF5EF8991DF5922800203F5D /* CWStarRateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWStarRateView.m; sourceTree = "<group>"; };
+		DF872C8D1DF0106000CBDB23 /* WSMovieController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSMovieController.h; sourceTree = "<group>"; };
+		DF872C8E1DF0106000CBDB23 /* WSMovieController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSMovieController.m; sourceTree = "<group>"; };
+		DF872C921DF0108300CBDB23 /* media.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = media.mp4; sourceTree = "<group>"; };
 		DF8F84EE1D794F8B006D7EB5 /* CommonServerInteraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonServerInteraction.h; sourceTree = "<group>"; };
 		DF8F84EF1D794F8B006D7EB5 /* CommonServerInteraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonServerInteraction.m; sourceTree = "<group>"; };
 		DF8F84F21D79527B006D7EB5 /* CommonInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CommonInfo.h; path = "../../首页/models/CommonInfo.h"; sourceTree = "<group>"; };
@@ -429,6 +445,9 @@
 		DF96C8181D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GarageAbilityItemCollectionViewCell.h; sourceTree = "<group>"; };
 		DF96C8191D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GarageAbilityItemCollectionViewCell.m; sourceTree = "<group>"; };
 		DF96C81A1D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GarageAbilityItemCollectionViewCell.xib; sourceTree = "<group>"; };
+		DFBD197A1DEEAD0500A94988 /* AuctionProjectTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuctionProjectTableViewCell.h; sourceTree = "<group>"; };
+		DFBD197B1DEEAD0500A94988 /* AuctionProjectTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AuctionProjectTableViewCell.m; sourceTree = "<group>"; };
+		DFBD197C1DEEAD0500A94988 /* AuctionProjectTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AuctionProjectTableViewCell.xib; sourceTree = "<group>"; };
 		DFE194561D7D551E00791F8D /* VerDoctorWebTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VerDoctorWebTableViewController.h; sourceTree = "<group>"; };
 		DFE194571D7D551E00791F8D /* VerDoctorWebTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VerDoctorWebTableViewController.m; sourceTree = "<group>"; };
 		DFE1945A1D7D56D300791F8D /* VerDoctorWebTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VerDoctorWebTableViewCell.h; sourceTree = "<group>"; };
@@ -448,6 +467,8 @@
 		DFF068311DE563F800E1C244 /* VideoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoTableViewCell.h; sourceTree = "<group>"; };
 		DFF068321DE563F800E1C244 /* VideoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoTableViewCell.m; sourceTree = "<group>"; };
 		DFF068331DE563F800E1C244 /* VideoTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = VideoTableViewCell.xib; sourceTree = "<group>"; };
+		DFF3962D1DF1190B00D38BFF /* AucionProjectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AucionProjectViewController.h; sourceTree = "<group>"; };
+		DFF3962E1DF1190B00D38BFF /* AucionProjectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AucionProjectViewController.m; sourceTree = "<group>"; };
 		DFFAC6B01DE7D9DF00A0F4A3 /* BeautyServerInteraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeautyServerInteraction.h; sourceTree = "<group>"; };
 		DFFAC6B11DE7D9DF00A0F4A3 /* BeautyServerInteraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeautyServerInteraction.m; sourceTree = "<group>"; };
 		DFFAC6B41DE7DD0600A0F4A3 /* AuctionProjectInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuctionProjectInfo.h; sourceTree = "<group>"; };
@@ -673,6 +694,7 @@
 		90AD75641D615BC900CB7661 /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				DFF7A9981DF10B29003B559F /* 拍卖项目详情 */,
 				DF35FF6C1DE682F80013E46D /* 我要求美 */,
 				DF8F84F91D795CCE006D7EB5 /* 城市列表选择 */,
 			);
@@ -709,6 +731,8 @@
 		90AD75671D615BC900CB7661 /* views */ = {
 			isa = PBXGroup;
 			children = (
+				DF3D23181DF578C8000DC9D6 /* 医生详情 */,
+				DFBD19781DEEACD700A94988 /* 项目拍卖cell */,
 				DFFAC6C11DE835E700A0F4A3 /* 医生cell */,
 				DF35FF731DE694760013E46D /* 机构cell */,
 				DF8F84FE1D7963E3006D7EB5 /* CommonSelectTableSectionHeader.h */,
@@ -1014,6 +1038,8 @@
 		90E766BC1D599268008E6C82 /* 3thpart */ = {
 			isa = PBXGroup;
 			children = (
+				DF5EF8961DF5921C00203F5D /* 评价星星 */,
+				DF872C911DF0106C00CBDB23 /* 启动视频 */,
 			);
 			path = 3thpart;
 			sourceTree = "<group>";
@@ -1343,6 +1369,24 @@
 			name = "机构cell";
 			sourceTree = "<group>";
 		};
+		DF3D23181DF578C8000DC9D6 /* 医生详情 */ = {
+			isa = PBXGroup;
+			children = (
+				DF3D231A1DF578E2000DC9D6 /* tablviewHeader */,
+			);
+			name = "医生详情";
+			sourceTree = "<group>";
+		};
+		DF3D231A1DF578E2000DC9D6 /* tablviewHeader */ = {
+			isa = PBXGroup;
+			children = (
+				DF3D231B1DF57948000DC9D6 /* DoctorDetailsHeaderView.h */,
+				DF3D231C1DF57948000DC9D6 /* DoctorDetailsHeaderView.m */,
+				DF3D231E1DF57969000DC9D6 /* DoctorDetailsHeaderView.xib */,
+			);
+			name = tablviewHeader;
+			sourceTree = "<group>";
+		};
 		DF4077661DD2B5F200436FDF /* 首页功能cell */ = {
 			isa = PBXGroup;
 			children = (
@@ -1360,6 +1404,25 @@
 				DF5C37011DE5777800082629 /* PlayVideoViewController.m */,
 			);
 			name = "视频播放";
+			sourceTree = "<group>";
+		};
+		DF5EF8961DF5921C00203F5D /* 评价星星 */ = {
+			isa = PBXGroup;
+			children = (
+				DF5EF8981DF5922800203F5D /* CWStarRateView.h */,
+				DF5EF8991DF5922800203F5D /* CWStarRateView.m */,
+			);
+			name = "评价星星";
+			sourceTree = "<group>";
+		};
+		DF872C911DF0106C00CBDB23 /* 启动视频 */ = {
+			isa = PBXGroup;
+			children = (
+				DF872C921DF0108300CBDB23 /* media.mp4 */,
+				DF872C8D1DF0106000CBDB23 /* WSMovieController.h */,
+				DF872C8E1DF0106000CBDB23 /* WSMovieController.m */,
+			);
+			name = "启动视频";
 			sourceTree = "<group>";
 		};
 		DF8F84F91D795CCE006D7EB5 /* 城市列表选择 */ = {
@@ -1405,6 +1468,16 @@
 				DF96C81A1D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.xib */,
 			);
 			path = private;
+			sourceTree = "<group>";
+		};
+		DFBD19781DEEACD700A94988 /* 项目拍卖cell */ = {
+			isa = PBXGroup;
+			children = (
+				DFBD197A1DEEAD0500A94988 /* AuctionProjectTableViewCell.h */,
+				DFBD197B1DEEAD0500A94988 /* AuctionProjectTableViewCell.m */,
+				DFBD197C1DEEAD0500A94988 /* AuctionProjectTableViewCell.xib */,
+			);
+			name = "项目拍卖cell";
 			sourceTree = "<group>";
 		};
 		DFE194551D7D54F100791F8D /* 验医生 */ = {
@@ -1489,6 +1562,15 @@
 				DFF068331DE563F800E1C244 /* VideoTableViewCell.xib */,
 			);
 			path = views;
+			sourceTree = "<group>";
+		};
+		DFF7A9981DF10B29003B559F /* 拍卖项目详情 */ = {
+			isa = PBXGroup;
+			children = (
+				DFF3962D1DF1190B00D38BFF /* AucionProjectViewController.h */,
+				DFF3962E1DF1190B00D38BFF /* AucionProjectViewController.m */,
+			);
+			name = "拍卖项目详情";
 			sourceTree = "<group>";
 		};
 		DFFAC6C11DE835E700A0F4A3 /* 医生cell */ = {
@@ -1589,6 +1671,7 @@
 				DF96C81E1D7569F8001E5C12 /* GarageAbilityCollectionSectionHeader.xib in Resources */,
 				90E769F91D59B816008E6C82 /* AYBGroupTableViewCell.xib in Resources */,
 				90E76B311D59B816008E6C82 /* glyphicons-halflings-regular.ttf in Resources */,
+				DF872C931DF0108300CBDB23 /* media.mp4 in Resources */,
 				DFE1945E1D7D56D300791F8D /* VerDoctorWebTableViewCell.xib in Resources */,
 				90B56EC41D62D6E300E4232B /* ImageAddCollectionViewCell.xib in Resources */,
 				90E76B2D1D59B816008E6C82 /* fontawesome-webfont.woff in Resources */,
@@ -1612,11 +1695,13 @@
 				DF96C8201D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.xib in Resources */,
 				DF8F85051D7963E3006D7EB5 /* CommonSelectTableSectionHeader.xib in Resources */,
 				90E76B591D59B831008E6C82 /* AlipaySDK.bundle in Resources */,
+				DF3D231F1DF57969000DC9D6 /* DoctorDetailsHeaderView.xib in Resources */,
 				909BEDD71D598095007D7A7E /* LaunchScreen.storyboard in Resources */,
 				90E769F21D59B816008E6C82 /* Assets.xcassets in Resources */,
 				DF4077641DD2B5D000436FDF /* FunctionTableViewCell.xib in Resources */,
 				90E76B2C1D59B816008E6C82 /* fontawesome-webfont.ttf in Resources */,
 				DFFAC6CB1DE8366500A0F4A3 /* ExpertTableViewCell.xib in Resources */,
+				DFBD197E1DEEAD0500A94988 /* AuctionProjectTableViewCell.xib in Resources */,
 				90E76B2A1D59B816008E6C82 /* fontawesome-webfont.eot in Resources */,
 				90E76B391D59B816008E6C82 /* respond.min.js in Resources */,
 				90E76B981D59C2F7008E6C82 /* CommonEmptyListView.xib in Resources */,
@@ -1697,6 +1782,7 @@
 				DF1C94D61D7687B6003D5114 /* HomeTableViewHeaderView.m in Sources */,
 				DF91744E1D792E1900F32CCF /* DoctorServerInteraction.m in Sources */,
 				18C534A61DE6D8F000A20875 /* FindClassifyInfo.m in Sources */,
+				DF5EF89A1DF5922800203F5D /* CWStarRateView.m in Sources */,
 				DF35FF6F1DE683BD0013E46D /* BecomeBeautifulViewController.m in Sources */,
 				905383641D65C04B007D722E /* ConsultationTableViewController.m in Sources */,
 				DF4077631DD2B5D000436FDF /* FunctionTableViewCell.m in Sources */,
@@ -1707,6 +1793,7 @@
 				90E76B971D59C2F7008E6C82 /* CommonEmptyListView.m in Sources */,
 				18C534AD1DE703B600A20875 /* ToKoreaViewController.m in Sources */,
 				90CDCBAE1D5D5CC300FF2B6D /* ForgetPasswordTableViewController.m in Sources */,
+				DF872C8F1DF0106000CBDB23 /* WSMovieController.m in Sources */,
 				DF35FF771DE694EC0013E46D /* HospitalTableViewCell.m in Sources */,
 				183C312A1DDD9DF300C1BFA5 /* DoctorCollectionViewCell.m in Sources */,
 				DFF068301DE562C000E1C244 /* BelieveTableViewController.m in Sources */,
@@ -1715,6 +1802,7 @@
 				90E76B5F1D59B831008E6C82 /* ApiXml.mm in Sources */,
 				90AD75711D6163F300CB7661 /* LoginServerInteraction.m in Sources */,
 				90AD757C1D61A6DB00CB7661 /* MirrorServerInteraction.m in Sources */,
+				DF3D231D1DF57948000DC9D6 /* DoctorDetailsHeaderView.m in Sources */,
 				90E769F71D59B816008E6C82 /* WebViewController.m in Sources */,
 				90E76BA31D59C95A008E6C82 /* MineTableViewController.m in Sources */,
 				DF96C81F1D7569F8001E5C12 /* GarageAbilityItemCollectionViewCell.m in Sources */,
@@ -1726,6 +1814,8 @@
 				DF8F84F01D794F8B006D7EB5 /* CommonServerInteraction.m in Sources */,
 				9022EC6E1D5C1D6200C826B5 /* MineHeaderView.m in Sources */,
 				DF96C81D1D7569F8001E5C12 /* GarageAbilityCollectionSectionHeader.m in Sources */,
+				DFBD197D1DEEAD0500A94988 /* AuctionProjectTableViewCell.m in Sources */,
+				DFF3962F1DF1190B00D38BFF /* AucionProjectViewController.m in Sources */,
 				183C312E1DDDB11200C1BFA5 /* FindSpecialInfo.m in Sources */,
 				DF8F84F41D79527B006D7EB5 /* CommonInfo.m in Sources */,
 				185AF3A01DE93A7100CB193E /* GetCaseListInfo.m in Sources */,
